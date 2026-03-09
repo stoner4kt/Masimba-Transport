@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masimimbatransport.co.za/sitemap.xml
